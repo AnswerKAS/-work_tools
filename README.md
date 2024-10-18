@@ -11,8 +11,11 @@
 | Free Online JSON to JSON Schema Converter  | https://www.liquid-technologies.com/online-json-to-schema-converter   |Can convert JSON object to JSOn Schema| - | 
 | Figma  | https://www.figma.com/  |The Collaborative Interface Design Tool |https://www.figma.com/community| 
 | Path Online Evaluator  | https://jsonpath.com/ |Work to JSONPath |-| 
-|JSON Web Token | https://jwt.io/ |View JWT token content |-| 
-|Postman | https://www.postman.com/| Test API |-| 
+| JSON Web Token | https://jwt.io/ |View JWT token content |-| 
+| Postman | https://www.postman.com/| Test API |-| 
+| Swagger | https://swagger.io/| API Documentation |-| 
+| Regular Expressions 101 | https://regex101.com/| Create and check reg exp|-| 
+
 
 
 
